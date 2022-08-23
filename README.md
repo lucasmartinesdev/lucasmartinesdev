@@ -1,4 +1,4 @@
-## Oii eu sou o Lucas Martines, estudante de análise e desenvolvimento de sistemas!
+## Hi, nice to meet you!
 <div align="center">
   <a href="https://github.com/LucasMartines01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMartines01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
