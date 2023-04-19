@@ -1,6 +1,6 @@
 ## Hi, nice to meet you!
 <hr>
-## I'm Lucas Martines Java and Flutter Developer.
+I'm Lucas Martines Java and Flutter Developer.
 <hr>
 <div align="center">
   <a href="https://github.com/LucasMartines01">
