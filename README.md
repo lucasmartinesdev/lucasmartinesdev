@@ -1,6 +1,6 @@
 ## Hi, nice to meet you!
 I'm Lucas Martines, Software Engineer.
-<hr>
+<br>
 <div align="center">
   <a href="https://github.com/LucasMartines01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMartines01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
