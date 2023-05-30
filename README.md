@@ -1,5 +1,5 @@
 ## Hi, nice to meet you!
-I'm Lucas Martines Full-Stack Developer.
+I'm Lucas Martines, Software Engineer.
 <hr>
 <div align="center">
   <a href="https://github.com/LucasMartines01">
